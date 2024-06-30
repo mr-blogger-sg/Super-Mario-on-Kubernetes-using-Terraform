@@ -21,7 +21,8 @@ This project aimed to demonstrate proficiency in cloud deployment and Kubernetes
 - **Application Deployment:** Configured and deployed Super Mario application on Amazon EKS using Kubernetes deployment and service files.
 - **Infrastructure Cleanup:** Implemented automated cleanup procedures to delete all deployed resources after completing the project.
 
-[![file_2024-03-31_22 57 32]([https://github.com/ritikdhame/Automated-Telecom-Customer-Churn-Analysis/assets/7029092/9067c107-72d7-4a32-a520-579f9dbb55fb](https://github.com/mr-blogger-sg/Super-Mario-on-Kubernetes-using-Terraform/blob/69fecff97281d75183e13df390f25604152fa5fa/Super%20Mario.png))
+![image](https://github.com/mr-blogger-sg/Super-Mario-on-Kubernetes-using-Terraform/assets/53033920/19302197-090e-4eaf-9212-4daf9cb993e5)
+
 
 ## Benefits
 
