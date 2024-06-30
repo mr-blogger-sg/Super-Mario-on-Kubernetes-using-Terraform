@@ -22,7 +22,6 @@ This project aimed to demonstrate proficiency in cloud deployment and Kubernetes
 - **Infrastructure Cleanup:** Implemented automated cleanup procedures to delete all deployed resources after completing the project.
 
 [![file_2024-03-31_22 57 32]([https://github.com/ritikdhame/Automated-Telecom-Customer-Churn-Analysis/assets/7029092/9067c107-72d7-4a32-a520-579f9dbb55fb](https://github.com/mr-blogger-sg/Super-Mario-on-Kubernetes-using-Terraform/blob/69fecff97281d75183e13df390f25604152fa5fa/Super%20Mario.png))
-](https://github.com/mr-blogger-sg/Super-Mario-on-Kubernetes-using-Terraform/blob/69fecff97281d75183e13df390f25604152fa5fa/Super%20Mario.png)
 
 ## Benefits
 
